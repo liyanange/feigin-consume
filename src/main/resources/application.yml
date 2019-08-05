@@ -1,0 +1,18 @@
+Server:
+  port: 8093
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: feign-client
+feign:
+  hystrix:
+    enabled: true
+management:
+  endpoints:
+    web:
+    exposure:
+      include: health,info,env,metrics,beans
+
