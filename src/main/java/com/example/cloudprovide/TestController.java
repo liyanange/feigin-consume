@@ -12,7 +12,7 @@ public class TestController {
     @Autowired
     private RemoteClient remoteClient;
 
-    @RequestMapping("/test")
+    @RequestMapping("/test1")
     public String test() {
         return remoteClient.test();
     }
