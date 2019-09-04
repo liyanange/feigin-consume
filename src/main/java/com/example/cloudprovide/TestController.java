@@ -12,13 +12,13 @@ public class TestController {
     @Autowired
     private RemoteClient remoteClient;
 
-    @RequestMapping("/test1")
-    public String test() {
-        return remoteClient.test();
-    }
-    @RequestMapping("/info")
-    public String info() {
-        return remoteClient.info();
-    }
+//    @RequestMapping("/test1")
+//    public String test() {
+//        return remoteClient.test();
+//    }
+//    @RequestMapping("/info")
+//    public String info() {
+//        return remoteClient.info();
+//    }
 
 }
