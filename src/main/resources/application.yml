@@ -9,7 +9,7 @@ spring:
     name: feign-client啊啊啊啊啊啊啊啊
 feign:
   hystrix:
-    enabled: true
+    enabled: trueffffffffffff
 management:
   endpoints:
     web:
