@@ -1,9 +1,10 @@
 package com.example.cloudprovide;
 
 public class StashChange {
-	hjshshhshhhs
+	public static void main(String[] args) {
+
+	}
 }
-ÎÞ·¨is°¢uyifui
 
 
 
@@ -21,4 +22,4 @@ public class StashChange {
 
 
 
-·¨·¢Ë³·á
+ï¿½ï¿½ï¿½ï¿½Ë³ï¿½ï¿½
